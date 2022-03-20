@@ -1,2 +1,2 @@
 # JammerApp
-Reference web application for the JammerSDK. Built using Preact.
+Reference web application for the JammerSDK.
